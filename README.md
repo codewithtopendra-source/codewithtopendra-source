@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🔭 I’m currently working as a Frontend Developer at NavaTech Media
+- 🔭 I’m currently working as a Frontend Developer Intern at NavaTech Media
 - - 🌱 I’m currently learning Nextjs
 
 <!--
